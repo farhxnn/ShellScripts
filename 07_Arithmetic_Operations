@@ -1,0 +1,14 @@
+read -p "Enter first number: " x
+read -p "Enter second number: " y
+echo "Addition: $(( $x + $y ))"
+echo "Subtraction: $(( $x - $y ))"
+echo "Division: $(( $x / $y ))"
+echo "Multiplication: $(( $x * $y ))"
+#Another way
+let add=$x+$y
+echo ""
+echo "Addition: $add"
+#Another way
+echo ""
+echo "Expr way: "$(expr $x + $y)
+
