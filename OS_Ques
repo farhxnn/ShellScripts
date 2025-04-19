@@ -1,0 +1,21 @@
+1.What is the purpose of the shebang (‘#!’) at the beginning of a
+shell script?
+2. Explain the difference between ‘echo’, ‘printf’, and ‘print’ in shell
+scripting.
+3. How do you pass command-line arguments to a shell script? Provide
+an example.
+4. Describe the purpose and usage of the ‘grep’ command in Unix-like
+systems.
+5. What are conditional statements in shell scripting? Provide examples
+of ‘if’, ‘elif’, and ‘else’ statements.
+6. What is the significance of loops (‘for’, ‘while’, ‘until’) in shell
+scripting? Provide a scenario where each loop type would be most
+appropriate.
+7. Explain how input/output redirection (‘>’, ‘>>’, ‘<’) works in shell
+scripting. Give examples of each.
+8. What is a pipeline (‘|’) in Unix shell scripting? How does it facilitate
+command chaining?
+9. Discuss the role of variables in shell scripting. What are environment
+variables, and how are they different from local variables?
+10. Name and briefly describe three utility programs commonly used in
+shell scripting, explaining their functionalities and typical use cases.
